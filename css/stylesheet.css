@@ -1,0 +1,161 @@
+.leader{
+    background-color: #de493c;
+}
+
+.icons{
+    text-align: right;
+    background-color: #de493c;
+    color: #fffad1;
+}
+.logo{
+    background-color: #de493c;
+}
+.nav-bar-inner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.control{
+    float: right;
+   margin-top: 10px;
+}
+.control ul{
+    text-decoration: none;
+    list-style: none;
+    color: #f6fccf;
+}
+.control li{
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    padding-right: 16px;
+    color: #f6fccf;
+    
+}
+.control a{
+    text-decoration: none;
+    color: #f6fccf;
+   
+}
+.text{
+    padding-top: 10px;
+    margin-bottom: -14px;
+    color:  #752d1b;
+}
+.text-inner{
+    color: #752d1b;
+}
+.big-pic{
+    background-color: #000;
+}
+.hero{
+    background-color: #000;
+}
+.top-bar{
+    background-color: #fcf7cf;
+}
+.form{
+    position: relative;
+    float: right;
+    border: 1px solid #752d1b;
+    margin-top: 10px;
+}
+.form input{
+    background-color:  #fcf7cf;
+}
+.search{
+    position: absolute;
+    right: 1px;
+    bottom:1px;
+    color:#752d20;
+}
+.set-pic{
+    margin-bottom: 15px;
+}
+
+.client{
+    display: inline;
+    text-align: center;
+}
+
+.name {
+    background-color: #63635c;
+}
+.tag img{
+    margin-left: 70px;
+}
+.main{
+    background-color: #f5efdc;
+    padding-bottom: 25px;
+}
+.first-set{
+    background-color:#f5efdc;
+    padding-top: 15px;
+}
+
+.second-set{
+    background-color: #f5efdc;
+}
+
+.set-pic{
+    margin-bottom: 20px;
+}
+.bottom-info{
+    padding-bottom: 20px;
+}
+.image{
+    position: absolute;
+    margin-right:10px;
+}
+.offer p{
+    padding-left: 100px;
+}
+.title{
+    padding-left: 100px;
+}
+.message{
+    padding-top: 18px;
+    margin-left: 101px;
+    font-size: 14px;
+}
+.click a{
+    color: #e6354c;
+}
+.end{
+    background-color: #f7f4e9;
+   
+}
+.heading{
+    margin-bottom: 20px;
+    color:#991a11;
+}
+.gray{
+    padding-bottom: 10px;
+    background-color: #595852;
+}
+info {
+    color: white;
+}
+.info h4{
+    color:#fcfffe;
+}
+.info h5{
+    color:#fcfffe;
+}
+.info p{
+    color: #ad9f8e;
+}
+.special a{
+    color: white;
+}
+.footer{
+    background-color:#403f38;
+}
+.closing{
+    margin-left: 47px;
+}
+.closing h1{
+    color: #ffffff;
+}
+.closing p{
+color: #ffffff;
+}
